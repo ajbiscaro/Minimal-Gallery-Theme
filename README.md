@@ -3,4 +3,4 @@ I developed this theme using HTML5/CSS3. This is a responsive theme. I used JQue
 
 Photo Credits: Sev Photography
 
-Demo: http://ardel-demo.net78.net/Minimal-Gallery
+Demo: http://ajbiscaro.github.io/Minimal-Gallery-Theme
